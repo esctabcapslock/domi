@@ -78,7 +78,6 @@ def apply(hour,place,reason,detail_reason):
     date=getDate(1)
 
     URL='https://sasadomi.hs.kr/Lib/study_apply.action.php'
-    #mode=apply&grade=2&class=3&class_number=2&date=1605020400&time=17&place=1&reason=1&detail_reason=
     data={
         'mode':'apply',
         'grade':stdunt[0],
