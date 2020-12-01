@@ -22,4 +22,4 @@
 6. 팁) 윈도우의 바로가기 기능을 활용하면 빠르게 사용할 수 있습니다.
 
 ### 다운로드
-<a href="https://github.com/esctabcapslock/domi/raw/main/dist.7z">여기서</a>
+<a href="https://github.com/esctabcapslock/domi/releases">여기서</a>
